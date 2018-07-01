@@ -1,0 +1,9 @@
+== Bitcoin - how it works
+
+=== Up to 20 words
+_@TODO_
+
+=== Up to 50 words
+....
+There is a shared ledger with all Bitcoin transactions that can be updated by everyone as long as they follow the consensus rules. From it one can assert, for example, the availability of money to perform a determined transaction.
+....
