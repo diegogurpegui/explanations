@@ -27,3 +27,8 @@ You will also see that, for some cases, there is more than one alternative.
 
 ### Money
 *@TODO*
+
+## Contributing
+The idea for this repo is to contain collective knowledge (and power of synthesis) to display complex topics in a simple a sometimes reduced way.
+
+So, feel free to propose changes on any content, add words limits, add topics, suggest content reorganization, etc. Everything is welcome.
