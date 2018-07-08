@@ -12,7 +12,11 @@ For each concept here you'll find different aspects to explain, like its *defini
 
 You will also see that, for some cases, there is more than one alternative.
 
+In the future, the content might be re-structured and a web interface can be created to read from that in order to provide better UX.
+
 ## Concepts
+
+Here is a quick index of the concepts contained in this repo.
 
 ### Bitcoin
 
@@ -31,4 +35,4 @@ You will also see that, for some cases, there is more than one alternative.
 ## Contributing
 The idea for this repo is to contain collective knowledge (and power of synthesis) to display complex topics in a simple a sometimes reduced way.
 
-So, feel free to propose changes on any content, add words limits, add topics, suggest content reorganization, etc. Everything is welcome.
+So, feel free to propose changes on any content, add words limits, add topics, suggest content reorganization, etc. Everything is welcome, just [report an issue](https://github.com/diegogurpegui/explanations/issues) or [add a PR](https://github.com/diegogurpegui/explanations/pulls).
