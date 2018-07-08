@@ -1,7 +1,9 @@
 == Bitcoin - how it works
 
 === Up to 20 words
-_@TODO_
+....
+The decentralized network maintains a shared ledger with ownserhip of value (bitcoins measured in "satoshis") by each member.
+....
 
 === Up to 50 words
 ....
