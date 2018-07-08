@@ -21,7 +21,8 @@ Here is a quick index of the concepts contained in this repo.
 ### Bitcoin
 
 [Definition (en)](./bitcoin/definition.en.asciidoc) <br>
-[Definition (es)](./bitcoin/definition.es.asciidoc)
+[Definition (es)](./bitcoin/definition.es.asciidoc) <br>
+[How it works (en)](./bitcoin/howitworks.en.asciidoc)
 
 ### Blockchain
 *@TODO*
