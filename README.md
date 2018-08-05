@@ -34,6 +34,6 @@ Here is a quick index of the concepts contained in this repo.
 *@TODO*
 
 ## Contributing
-The idea for this repo is to contain collective knowledge (and power of synthesis) to display complex topics in a simple a sometimes reduced way.
+The idea for this repo is to contain collective knowledge (and power of synthesis) to display complex topics in a simple and sometimes reduced way.
 
 So, feel free to propose changes on any content, add words limits, add topics, suggest content reorganization, etc. Everything is welcome, just [report an issue](https://github.com/diegogurpegui/explanations/issues) or [add a PR](https://github.com/diegogurpegui/explanations/pulls).
